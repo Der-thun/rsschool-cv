@@ -20,6 +20,10 @@ body {
   color: #1d0847;
 }
 
+.container > img {
+  width: 300px;
+}
+
 .nav-list {
   display: flex;
   flex-wrap: wrap;
@@ -91,10 +95,6 @@ footer {
   width: 100px;
   position: relative;
   top: 3px;
-}
-
-.profile-photo {
-  width: 300px;
 }
 
 pre {
