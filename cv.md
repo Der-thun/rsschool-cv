@@ -10,7 +10,7 @@
  I'm 35 year old and now work as a mobile device repairer. Unfortunately, this way has no prospects and I choose programming like my next work way. I have 2 year expirence as a Siemens PLC-programer. And now Full Stack development is interesting for me.
  
 ### Hard Skills
- HTML5, CSS/BEM, Figma, Javascript ES6, Python, MySQL, SQLite, Git, Algorithms and Data Structures, OOP, PLC Programming Languages (LAD)
+ HTML5, CSS/BEM, Figma, Javascript ES6, Python, MySQL, SQLite, Git, Algorithms and Data Structures, OOP, PLC Programming Languages (LAD).
 
 ### Code example
 This is an example from Codewars. Task text:
